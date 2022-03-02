@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/SpaceSheepMobile/Bullet.qml</file>
+        <file>qml/SpaceSheepMobile/Button.qml</file>
+        <file>qml/SpaceSheepMobile/defs.js</file>
+        <file>qml/SpaceSheepMobile/Meteor.qml</file>
+        <file>qml/SpaceSheepMobile/Ship.qml</file>
+        <file>qml/SpaceSheepMobile/SpaceField.qml</file>
+        <file>qml/SpaceSheepMobile/Star.qml</file>
+        <file>qml/SpaceSheepMobile/main.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/boom0.gif</file>
+        <file>images/boom1.gif</file>
+        <file>images/boom2.gif</file>
+        <file>images/boom3.gif</file>
+        <file>images/boom4.gif</file>
+        <file>images/bullet.gif</file>
+        <file>images/bullet.png</file>
+        <file>images/decoration.png</file>
+        <file>images/linelat.jpg</file>
+        <file>images/meteor0.png</file>
+        <file>images/meteor1.png</file>
+        <file>images/meteor2.png</file>
+        <file>images/meteor3.png</file>
+        <file>images/meteor4.png</file>
+        <file>images/meteor5.png</file>
+        <file>images/presimag.png</file>
+        <file>images/presimag.xcf</file>
+        <file>images/ship.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>audio/666ways-03-intro-solo.mp3</file>
+        <file>audio/Baah.wav</file>
+        <file>audio/bgaudio_mono.au</file>
+        <file>audio/blast.au</file>
+        <file>audio/collisn.au</file>
+        <file>audio/crash.wav</file>
+        <file>audio/mdestr.au</file>
+        <file>audio/move.wav</file>
+        <file>audio/bad_disk_x.wav</file>
+        <file>audio/baseball_hit.wav</file>
+        <file>audio/baseball_hit1.wav</file>
+        <file>audio/bad_disk_x1.wav</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/fonts">
+        <file>HanaleiFill-Regular.ttf</file>
+        <file>PressStart2P-Regular.ttf</file>
+    </qresource>
+</RCC>
